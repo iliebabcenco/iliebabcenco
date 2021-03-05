@@ -2,7 +2,7 @@
 
 
 
-🔭 I’m currently working on personale development as a software engineer.
+🔭 I’m currently working on personal development as a software engineer.
 
 🌱 I’m learning Ruby, Rails, JavaScript, React and Redux, Java, Spring, Hibernate, Angular.
 
