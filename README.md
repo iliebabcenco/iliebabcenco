@@ -8,3 +8,4 @@
 
 👯 I’m a full-time student at Microverse.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliebabcenco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
