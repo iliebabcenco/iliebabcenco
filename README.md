@@ -10,4 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliebabcenco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Ilie's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliebabcenco&show_icons=true&theme=radical)
+![Ilie's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliebabcenco&show_icons=true&theme=onedark)
