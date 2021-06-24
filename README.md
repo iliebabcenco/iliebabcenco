@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ilie, an ambitious person from Moldova. 
+### Hi there 👋 I'm Ilie, an ambitious software developer from Moldova. 
 
 
 
